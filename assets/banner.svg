@@ -10,8 +10,8 @@
       <stop offset="0" stop-color="#00d4ff" stop-opacity=".12"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
     </radialGradient>
     <!-- machine à écrire : une découpe qui s'élargit puis se referme, pour chaque phrase -->
-    <clipPath id="t1"><rect x="210" y="340" height="30" width="0"><animate attributeName="width" values="0;430;430;0;0" keyTimes="0;0.04;0.17;0.185;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="t2"><rect x="210" y="340" height="30" width="0"><animate attributeName="width" values="0;0;502;502;0;0" keyTimes="0;0.2;0.24;0.37;0.385;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="t1"><rect x="210" y="340" height="30" width="0"><animate attributeName="width" values="0;394;394;0;0" keyTimes="0;0.04;0.17;0.185;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="t2"><rect x="210" y="340" height="30" width="0"><animate attributeName="width" values="0;0;592;592;0;0" keyTimes="0;0.2;0.24;0.37;0.385;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="t3"><rect x="210" y="340" height="30" width="0"><animate attributeName="width" values="0;0;195;195;0;0" keyTimes="0;0.4;0.44;0.57;0.585;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="t4"><rect x="210" y="340" height="30" width="0"><animate attributeName="width" values="0;0;150;150;0;0" keyTimes="0;0.6;0.64;0.77;0.785;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="t5"><rect x="210" y="340" height="30" width="0"><animate attributeName="width" values="0;0;249;249;0" keyTimes="0;0.8;0.84;0.97;1" dur="20s" repeatCount="indefinite"/></rect></clipPath>
@@ -33,7 +33,7 @@
     <circle cx="48" cy="190" r="5" fill="#ffffff" fill-opacity=".14"/>
     <circle cx="48" cy="216" r="5" fill="#ffffff" fill-opacity=".14"/>
     <circle cx="48" cy="250" r="4" fill="#00ff88"><animate attributeName="r" values="4;5.5;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.5;1" dur="2s" repeatCount="indefinite"/></circle>
-    <text x="0" y="0" transform="translate(52 270) rotate(90)" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#00ff88">DISPONIBLE</text>
+    <text x="0" y="0" transform="translate(52 270) rotate(90)" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#00ff88">EN ALTERNANCE</text>
   </g>
 
   <!-- pastille -->
@@ -56,10 +56,10 @@
 
   <!-- > status: … -->
   <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">
-    <rect x="106" y="332" width="622" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="106" y="332" width="704" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".08"/>
     <text x="122" y="361" fill="#00ff88">&gt; status:</text>
-    <text x="214" y="361" fill="#ffffff" clip-path="url(#t1)" data-i="0">actuellement en BTS SIO SISR à MyDigitalSchool</text>
-    <text x="214" y="361" fill="#ffffff" clip-path="url(#t2)" data-i="1">CCS SAM · Crédit Mutuel Nantes · assistance matérielle</text>
+    <text x="214" y="361" fill="#ffffff" clip-path="url(#t1)" data-i="0">étudiant en BTS SIO SISR à MyDigitalSchool</text>
+    <text x="214" y="361" fill="#ffffff" clip-path="url(#t2)" data-i="1">en alternance au CCS SAM · Crédit Mutuel · assistance matérielle</text>
     <text x="214" y="361" fill="#ffffff" clip-path="url(#t3)" data-i="2">passionné de réseaux</text>
     <text x="214" y="361" fill="#ffffff" clip-path="url(#t4)" data-i="3">futur admin sys</text>
     <text x="214" y="361" fill="#ffffff" clip-path="url(#t5)" data-i="4">passionné de cybersécurité</text>

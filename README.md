@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio angelovds.me"></a>
   <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-70235a392"><img src="https://img.shields.io/badge/LinkedIn-Mon%20profil-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Statut-En%20recherche%20d'alternance-ff0066?style=for-the-badge&labelColor=0a0a0a" alt="En recherche d'alternance">
+  <img src="https://img.shields.io/badge/Alternance-CCS%20SAM%20·%20Crédit%20Mutuel-ff0066?style=for-the-badge&labelColor=0a0a0a" alt="En alternance au CCS SAM, Crédit Mutuel">
 </p>
 
 ---
