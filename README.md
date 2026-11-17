@@ -18,7 +18,36 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
 
 ---
 
-## `02` Compétences
+## `02` Alternance
+
+<p>
+<img src="https://img.shields.io/badge/Crédit%20Mutuel-CCS%20SAM-ff0066?style=for-the-badge&labelColor=0a0a0a" alt="Crédit Mutuel, CCS SAM">
+<img src="https://img.shields.io/badge/Service-Assistance%20matérielle-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Assistance matérielle">
+<img src="https://img.shields.io/badge/Lieu-Nantes-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="Nantes">
+</p>
+
+En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs.
+
+| Mission | Ce que je fais |
+|---|---|
+| **Assistance à distance** | Prise en main à distance des postes pour diagnostiquer et résoudre les problèmes, sans se déplacer |
+| **Postes de travail** | Diagnostic et dépannage des PC portables professionnels et des tours |
+| **Périphériques** | Prise en charge des imprimantes chèques, des scanners de documents et des bips |
+| **Suivi des demandes** | Traitement des demandes d'assistance matérielle des collaborateurs, jusqu'à leur résolution |
+
+**Matériel géré**
+
+<p>
+<img src="https://img.shields.io/badge/PC%20portables%20pro-111?style=flat-square" alt="PC portables professionnels">
+<img src="https://img.shields.io/badge/Tours-111?style=flat-square" alt="Tours">
+<img src="https://img.shields.io/badge/Imprimantes%20chèques-111?style=flat-square" alt="Imprimantes chèques">
+<img src="https://img.shields.io/badge/Scanners%20de%20documents-111?style=flat-square" alt="Scanners de documents">
+<img src="https://img.shields.io/badge/Bips-111?style=flat-square" alt="Bips">
+</p>
+
+---
+
+## `03` Compétences
 
 <p>
 <img src="https://img.shields.io/badge/Windows%20Server%202025-111?style=flat-square&labelColor=0a0a0a" alt="Windows Server 2025">
@@ -43,7 +72,7 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
 
 ---
 
-## `03` Réalisations
+## `04` Réalisations
 
 | # | Réalisation | Domaine | Outils |
 |:-:|---|---|---|
@@ -58,7 +87,7 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
 
 ---
 
-## `04` Contact
+## `05` Contact
 
 <p>
   <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"></a>
