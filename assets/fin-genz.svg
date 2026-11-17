@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="À suivre">
-<g transform="rotate(-1.5 600 45)">
-  <rect x="-20" y="20" width="1240" height="50" fill="#ff6bd6" stroke="#111" stroke-width="3"/>
-  <text x="0" y="54" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="900" fill="#111"><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><tspan>à suivre  ✺  </tspan><animate attributeName="x" from="0" to="-1240" dur="22s" repeatCount="indefinite"/></text>
-</g>
-</svg>
