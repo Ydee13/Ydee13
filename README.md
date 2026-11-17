@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://angelovds.me"><img src="assets/banner.svg" alt="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool" width="100%"></a>
+  <a href="https://angelovds.me"><img src="assets/banner-manga.svg" alt="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool" width="100%"></a>
 </p>
 
 <p align="center">
