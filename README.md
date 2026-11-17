@@ -23,13 +23,15 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
 <p>
 <img src="https://img.shields.io/badge/Crédit%20Mutuel-CCS%20SAM-ff0066?style=for-the-badge&labelColor=0a0a0a" alt="Crédit Mutuel, CCS SAM">
 <img src="https://img.shields.io/badge/Service-Assistance%20matérielle-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Assistance matérielle">
+<img src="https://img.shields.io/badge/Support-Téléphonique-ffaa00?style=for-the-badge&labelColor=0a0a0a" alt="Support téléphonique">
 <img src="https://img.shields.io/badge/Lieu-Nantes-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="Nantes">
 </p>
 
-En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs.
+En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs. Tout passe par **téléphone** : les collaborateurs appellent notre ligne, on décroche et on traite leur demande directement depuis notre poste.
 
 | Mission | Ce que je fais |
 |---|---|
+| **Support téléphonique** | Réponse aux appels des collaborateurs sur la ligne du service, prise en charge de leur problème depuis mon poste |
 | **Assistance à distance** | Prise en main à distance des postes pour diagnostiquer et résoudre les problèmes, sans se déplacer |
 | **Postes de travail** | Diagnostic et dépannage des PC portables professionnels et des tours |
 | **Périphériques** | Prise en charge des imprimantes chèques, des scanners de documents et des bips |
