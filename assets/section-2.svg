@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 128" width="1200" height="128" role="img" aria-label="02 ALTERNANCE">
+<defs>
+  <linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#00ff88"/><stop offset="1" stop-color="#00d4ff"/></linearGradient>
+  <radialGradient id="gG" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 20) scale(360 160)"><stop offset="0" stop-color="#00ff88" stop-opacity=".14"/><stop offset="1" stop-color="#00ff88" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(60 128) scale(320 140)"><stop offset="0" stop-color="#00d4ff" stop-opacity=".12"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#00ff88" stop-opacity="0"/><stop offset=".5" stop-color="#00ff88" stop-opacity=".5"/><stop offset="1" stop-color="#00ff88" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  <clipPath id="card"><rect width="1200" height="128" rx="18"/></clipPath>
+  <clipPath id="typ"><rect x="196" y="22" height="22" width="0"><animate attributeName="width" values="0;0;122;122" keyTimes="0;.08;.3;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1200" height="128" fill="#0a0a0a"/>
+  <rect width="1200" height="128" fill="url(#grid)"/>
+  <rect width="1200" height="128" fill="url(#gG)"/>
+  <rect width="1200" height="128" fill="url(#gC)"/>
+  <rect x="-300" y="0" width="300" height="128" fill="url(#scan)" opacity=".18"><animate attributeName="x" values="-300;1200" dur="5s" begin="1.2s" repeatCount="indefinite"/></rect>
+  <!-- numéro -->
+  <text x="40" y="88" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="58" fill="url(#grad)">02</text>
+  <rect x="166" y="28" width="1" height="72" fill="#ffffff" fill-opacity=".12"/>
+  <!-- commande -->
+  <text x="186" y="38" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#888888">$</text>
+  <text x="200" y="38" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#00ff88" clip-path="url(#typ)" data-cmd="1">cd ~/alternance</text>
+  <rect x="322" y="27" width="7" height="14" fill="#00ff88"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/><animate attributeName="x" values="200;200;322;322" keyTimes="0;.08;.3;1" dur="6s" repeatCount="indefinite"/></rect>
+  <!-- titre -->
+  <text x="185" y="84" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff" letter-spacing="1">ALTERNANCE<tspan fill="#00ff88">.</tspan></text>
+  <text x="187" y="108" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#888888">CCS SAM · Crédit Mutuel · Assistance matérielle</text>
+  <!-- points de navigation -->
+  <text x="1000" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#888888" letter-spacing="2">SECTION 2/5</text>
+  <circle cx="1000" cy="64" r="5" fill="#ffffff" fill-opacity="0.14"></circle><circle cx="1026" cy="64" r="5" fill="#00ff88" fill-opacity="1"><animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></circle><circle cx="1052" cy="64" r="5" fill="#ffffff" fill-opacity="0.14"></circle><circle cx="1078" cy="64" r="5" fill="#ffffff" fill-opacity="0.14"></circle><circle cx="1104" cy="64" r="5" fill="#ffffff" fill-opacity="0.14"></circle>
+  <rect x="1000" y="88" width="130" height="3" rx="1.5" fill="#ffffff" fill-opacity=".08"/>
+  <rect x="1000" y="88" width="52" height="3" rx="1.5" fill="url(#grad)"/>
+  <rect x="1000" y="88" width="20" height="3" rx="1.5" fill="#ffffff" opacity=".7"><animate attributeName="x" values="1000;1032;1000" dur="2.4s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".5" y=".5" width="1199" height="127" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x=".5" y=".5" width="1199" height="127" rx="18" fill="none" stroke="url(#grad)" stroke-opacity=".7" stroke-dasharray="160 2500"><animate attributeName="stroke-dashoffset" values="0;-2660" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
