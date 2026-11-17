@@ -69,5 +69,3 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
   <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-70235a392"><img src="https://img.shields.io/badge/LinkedIn-Angelo%20Ventura%20De%20Sousa-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn"></a>
 </p>
-
-<sub>Je recherche une **alternance** en systèmes et réseaux. Discutons de ton projet !</sub>
