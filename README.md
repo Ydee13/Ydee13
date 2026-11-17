@@ -23,15 +23,15 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
 <p>
 <img src="https://img.shields.io/badge/Crédit%20Mutuel-CCS%20SAM-ff0066?style=for-the-badge&labelColor=0a0a0a" alt="Crédit Mutuel, CCS SAM">
 <img src="https://img.shields.io/badge/Service-Assistance%20matérielle-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Assistance matérielle">
-<img src="https://img.shields.io/badge/Support-CTI%20Bar-ffaa00?style=for-the-badge&labelColor=0a0a0a" alt="Support via la CTI Bar">
+<img src="https://img.shields.io/badge/Appels-CTI%20Bar-ffaa00?style=for-the-badge&labelColor=0a0a0a" alt="Prise d'appels via la CTI Bar">
 <img src="https://img.shields.io/badge/Lieu-Nantes-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="Nantes">
 </p>
 
-En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs. Les collaborateurs nous appellent via la **CTI Bar** : l'appel arrive directement sur notre **poste de travail**, et on traite leur demande depuis ce même PC. Quand le problème est résolu, on crée un **ticket** et on le clôture. Sinon, on le fait suivre au **niveau 2**. Et dès que c'est un problème matériel (casse, dysfonctionnement…), bref tout ce qui ne peut pas se régler à distance, on l'envoie aux **mainteneurs (EIS)**, qui interviennent sur place.
+En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs. Les collaborateurs appellent notre ligne (Skype, softphone…) et, de notre côté, on **décroche via la CTI Bar**, directement sur notre **poste de travail**. On traite ensuite leur demande depuis ce même PC. Quand le problème est résolu, on crée un **ticket** et on le clôture. Sinon, on le fait suivre au **niveau 2**. Et dès que c'est un problème matériel (casse, dysfonctionnement…), bref tout ce qui ne peut pas se régler à distance, on l'envoie aux **mainteneurs (EIS)**, qui interviennent sur place.
 
 | Mission | Ce que je fais |
 |---|---|
-| **Support via la CTI Bar** | Réponse aux appels des collaborateurs, reçus sur mon poste de travail via la CTI Bar, et prise en charge de leur problème |
+| **Prise d'appels** | Réponse aux appels des collaborateurs en décrochant via la CTI Bar sur mon poste de travail, puis prise en charge de leur problème |
 | **Assistance à distance** | Prise en main à distance des postes pour diagnostiquer et résoudre les problèmes, sans se déplacer |
 | **Postes de travail** | Diagnostic et dépannage des PC portables professionnels et des unités centrales |
 | **Périphériques** | Prise en charge des scanners de chèques, des scanners de documents et du bip |
