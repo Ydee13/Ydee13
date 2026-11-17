@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool — en alternance au CCS SAM, Crédit Mutuel">
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 .95  0 0 0 0 .88  0 0 0 .06 0"/></filter>
+  <radialGradient id="glow" cx=".5" cy="0" r=".9"><stop offset="0" stop-color="#c9a96e" stop-opacity=".22"/><stop offset="1" stop-color="#c9a96e" stop-opacity="0"/></radialGradient>
+  <linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff8e6" stop-opacity="0"/><stop offset=".5" stop-color="#fff8e6" stop-opacity=".16"/><stop offset="1" stop-color="#fff8e6" stop-opacity="0"/></linearGradient>
+  <clipPath id="arch"><path d="M842 404 V166 A132 132 0 0 1 1106 166 V404 Z"/></clipPath>
+  <clipPath id="card"><rect width="1200" height="460" rx="4"/></clipPath>
+  <path id="ringPath" d="M1110 92 m-52 0 a52 52 0 1 1 104 0 a52 52 0 1 1 -104 0"/>
+  <clipPath id="ty0"><rect x="118" y="330" height="30" width="0"><animate attributeName="width" values="0;229;229;0;0" keyTimes="0;0.0563;0.2062;0.2313;1" dur="16s" repeatCount="indefinite"/></rect></clipPath><clipPath id="ty1"><rect x="118" y="330" height="30" width="0"><animate attributeName="width" values="0;0;275;275;0;0" keyTimes="0;0.25;0.3063;0.4562;0.4813;1" dur="16s" repeatCount="indefinite"/></rect></clipPath><clipPath id="ty2"><rect x="118" y="330" height="30" width="0"><animate attributeName="width" values="0;0;351;351;0;0" keyTimes="0;0.5;0.5563;0.7063;0.7312;1" dur="16s" repeatCount="indefinite"/></rect></clipPath><clipPath id="ty3"><rect x="118" y="330" height="30" width="0"><animate attributeName="width" values="0;0;238;238;0" keyTimes="0;0.75;0.8063;0.9563;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="460" fill="#0d0c0b"/>
+<rect width="1200" height="460" filter="url(#grain)"/>
+<!-- colonne gauche fine -->
+<line x1="64" y1="0" x2="64" y2="460" stroke="rgba(232,220,200,.16)"/>
+<text transform="translate(40 230) rotate(-90)" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" letter-spacing="5" fill="#a59c8e" text-anchor="middle">ANGELOVDS.ME</text>
+
+<!-- titre -->
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.1s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 22" to="0 0" dur="1.1s" begin="0.1s" fill="freeze" calcMode="spline" keySplines=".22 .61 .36 1" keyTimes="0;1"/>
+  <line x1="118" y1="72" x2="152" y2="72" stroke="#c9a96e"/>
+  <text x="166" y="76" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="5" fill="#a59c8e">PORTFOLIO — BTS SIO SISR</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 22" to="0 0" dur="1.1s" begin="0.25s" fill="freeze" calcMode="spline" keySplines=".22 .61 .36 1" keyTimes="0;1"/><text x="114" y="168" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="92" font-weight="400" fill="#f3ede3" letter-spacing="1" textLength="420" lengthAdjust="spacingAndGlyphs">ANGELO</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 22" to="0 0" dur="1.1s" begin="0.45s" fill="freeze" calcMode="spline" keySplines=".22 .61 .36 1" keyTimes="0;1"/><text x="188" y="246" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="80" font-style="italic" font-weight="400" fill="#e9dcc2" textLength="364" lengthAdjust="spacingAndGlyphs">Ventura</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.65s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 22" to="0 0" dur="1.1s" begin="0.65s" fill="freeze" calcMode="spline" keySplines=".22 .61 .36 1" keyTimes="0;1"/><text x="116" y="306" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="46" font-weight="500" fill="#f3ede3" letter-spacing="7" textLength="330" lengthAdjust="spacingAndGlyphs">DE SOUSA</text><circle cx="464" cy="301" r="5" fill="#c9a96e"/></g>
+<!-- statut -->
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze"/>
+  <text x="118" y="352" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="4" fill="#c9a96e" dx="-1" opacity="0">.</text>
+  <g font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="21" font-style="italic" fill="#a59c8e"><text x="118" y="352" clip-path="url(#ty0)" data-i="0">étudiant en BTS SIO SISR</text><text x="118" y="352" clip-path="url(#ty1)" data-i="1">en alternance au Crédit Mutuel</text><text x="118" y="352" clip-path="url(#ty2)" data-i="2">futur administrateur systèmes et réseaux</text><text x="118" y="352" clip-path="url(#ty3)" data-i="3">passionné de cybersécurité</text></g>
+</g>
+<!-- bandeau bas -->
+<line x1="64" y1="394" x2="1200" y2="394" stroke="rgba(232,220,200,.16)"/>
+<line x1="118" y1="394" x2="118" y2="394" stroke="#c9a96e" stroke-width="2"><animate attributeName="x2" from="118" to="740" dur="1.6s" begin="1s" fill="freeze" calcMode="spline" keySplines=".22 .61 .36 1" keyTimes="0;1"/></line>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="3.6" fill="#a59c8e">
+  <text x="118" y="430">MYDIGITALSCHOOL · SAINT-HERBLAIN</text>
+  <text x="478" y="430">ALTERNANCE · CCS SAM, CRÉDIT MUTUEL</text>
+  <path d="M452 422 L455 425 L452 428 L449 425 Z" fill="#c9a96e"/>
+</g>
+<text x="1150" y="432" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="20" font-style="italic" fill="#c9a96e" text-anchor="end">2026 — 2028</text>
+
+<!-- arche & monogramme -->
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.6s" begin=".6s" fill="freeze"/>
+  <path d="M842 404 V166 A132 132 0 0 1 1106 166 V404 Z" fill="#161411"/>
+  <g clip-path="url(#arch)">
+    <rect x="842" y="34" width="264" height="370" fill="url(#glow)"/>
+    <rect x="700" y="20" width="90" height="420" fill="url(#sheen)" transform="skewX(-16)"><animate attributeName="x" values="700;700;1200" keyTimes="0;.5;1" dur="7s" repeatCount="indefinite"/></rect>
+  </g>
+  <path d="M842 404 V166 A132 132 0 0 1 1106 166 V404" fill="none" stroke="rgba(232,220,200,.32)"/>
+  <path d="M856 404 V168 A118 118 0 0 1 1092 168 V404" fill="none" stroke="rgba(232,220,200,.16)"/>
+  <text x="944" y="282" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="112" font-weight="400" fill="#f3ede3" text-anchor="middle">A</text>
+  <text x="1018" y="282" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="112" font-style="italic" fill="#c9a96e" text-anchor="middle">V</text>
+  <text x="974" y="342" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="17" font-style="italic" fill="#f3ede3" text-anchor="middle">Systèmes &amp; Réseaux</text>
+  <text x="974" y="366" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9" letter-spacing="4" fill="#a59c8e" text-anchor="middle">COLLECTION 2026 — 2028</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="1.2s" fill="freeze"/>
+  <circle cx="1110" cy="92" r="66" fill="#0d0c0b" stroke="rgba(232,220,200,.32)"/>
+  <g><animateTransform attributeName="transform" type="rotate" from="0 1110 92" to="360 1110 92" dur="30s" repeatCount="indefinite"/>
+    <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="8.2" fill="#f3ede3"><textPath href="#ringPath" textLength="322" lengthAdjust="spacing">PORTFOLIO · BTS SIO SISR · ANGELO V. DE SOUSA · </textPath></text>
+  </g>
+  <path d="M1110 82 L1113 89 L1120 92 L1113 95 L1110 102 L1107 95 L1100 92 L1107 89 Z" fill="#c9a96e"/>
+</g>
+</g>
+<rect x=".5" y=".5" width="1199" height="459" rx="4" fill="none" stroke="rgba(232,220,200,.18)"/>
+</svg>
