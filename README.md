@@ -27,24 +27,24 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
 <img src="https://img.shields.io/badge/Lieu-Nantes-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="Nantes">
 </p>
 
-En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs. Tout passe par **téléphone** : les collaborateurs appellent notre ligne, on décroche et on traite leur demande directement depuis notre poste.
+En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs. Tout passe par **téléphone** : les collaborateurs appellent notre ligne, on décroche et on traite leur demande directement depuis notre poste. Quand le problème est résolu, on crée un **ticket** et on le clôture.
 
 | Mission | Ce que je fais |
 |---|---|
 | **Support téléphonique** | Réponse aux appels des collaborateurs sur la ligne du service, prise en charge de leur problème depuis mon poste |
 | **Assistance à distance** | Prise en main à distance des postes pour diagnostiquer et résoudre les problèmes, sans se déplacer |
 | **Postes de travail** | Diagnostic et dépannage des PC portables professionnels et des tours |
-| **Périphériques** | Prise en charge des imprimantes chèques, des scanners de documents et des bips |
-| **Suivi des demandes** | Traitement des demandes d'assistance matérielle des collaborateurs, jusqu'à leur résolution |
+| **Périphériques** | Prise en charge des scanners de chèques, des scanners de documents et du bip |
+| **Tickets** | Création d'un ticket pour chaque problème résolu, puis clôture une fois l'intervention terminée |
 
 **Matériel géré**
 
 <p>
 <img src="https://img.shields.io/badge/PC%20portables%20pro-111?style=flat-square" alt="PC portables professionnels">
 <img src="https://img.shields.io/badge/Tours-111?style=flat-square" alt="Tours">
-<img src="https://img.shields.io/badge/Imprimantes%20chèques-111?style=flat-square" alt="Imprimantes chèques">
+<img src="https://img.shields.io/badge/Scanners%20de%20chèques-111?style=flat-square" alt="Scanners de chèques">
 <img src="https://img.shields.io/badge/Scanners%20de%20documents-111?style=flat-square" alt="Scanners de documents">
-<img src="https://img.shields.io/badge/Bips-111?style=flat-square" alt="Bips">
+<img src="https://img.shields.io/badge/Bip-111?style=flat-square" alt="Bip">
 </p>
 
 ---
