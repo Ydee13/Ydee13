@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="À suivre">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7cc4ff" stop-opacity="0"/><stop offset=".5" stop-color="#7cc4ff" stop-opacity=".7"/><stop offset="1" stop-color="#7cc4ff" stop-opacity="0"/></linearGradient></defs>
+<rect x="200" y="29" width="300" height="1" fill="url(#l)"/><rect x="700" y="29" width="300" height="1" fill="url(#l)"/>
+<text x="600" y="35" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9fb3d1" text-anchor="middle" letter-spacing="8">À SUIVRE</text>
+<circle cx="600" cy="50" r="2" fill="#7cc4ff"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
