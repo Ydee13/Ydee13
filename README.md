@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://angelovds.me"><img src="assets/banner-genz.svg" alt="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool" width="100%"></a>
+  <a href="https://angelovds.me"><picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-genz-light.svg"><img src="assets/banner-genz.svg" alt="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool" width="100%"></picture></a>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img src="assets/genz-1.svg" alt="01 À propos" width="100%"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: light)" srcset="assets/genz-1-light.svg"><img src="assets/genz-1.svg" alt="01 À propos" width="100%"></picture></p>
 
 Je m'appelle **Angelo Ventura De Sousa**, j'ai **19 ans**. Diplômé d'un **Bac Pro Systèmes Numériques** au lycée François Arago de Nantes, je suis aujourd'hui en **BTS SIO option SISR** à **MyDigitalSchool** (Saint-Herblain).
 
@@ -18,7 +18,7 @@ Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En format
 
 ---
 
-<p align="center"><img src="assets/genz-2.svg" alt="02 Alternance" width="100%"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: light)" srcset="assets/genz-2-light.svg"><img src="assets/genz-2.svg" alt="02 Alternance" width="100%"></picture></p>
 
 <p>
 <img src="https://img.shields.io/badge/Crédit%20Mutuel-CCS%20SAM-c6ff3d?style=for-the-badge&labelColor=121212" alt="Crédit Mutuel, CCS SAM">
@@ -57,7 +57,7 @@ En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**
 
 ---
 
-<p align="center"><img src="assets/genz-3.svg" alt="03 Compétences" width="100%"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: light)" srcset="assets/genz-3-light.svg"><img src="assets/genz-3.svg" alt="03 Compétences" width="100%"></picture></p>
 
 <p>
 <img src="https://img.shields.io/badge/Windows%20Server%202025-1e1e1e?style=flat-square&labelColor=0a0a0a" alt="Windows Server 2025">
@@ -82,7 +82,7 @@ En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**
 
 ---
 
-<p align="center"><img src="assets/genz-4.svg" alt="04 Réalisations" width="100%"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: light)" srcset="assets/genz-4-light.svg"><img src="assets/genz-4.svg" alt="04 Réalisations" width="100%"></picture></p>
 
 | # | Réalisation | Domaine | Outils |
 |:-:|---|---|---|
@@ -97,7 +97,7 @@ En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**
 
 ---
 
-<p align="center"><img src="assets/genz-5.svg" alt="05 Contact" width="100%"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: light)" srcset="assets/genz-5-light.svg"><img src="assets/genz-5.svg" alt="05 Contact" width="100%"></picture></p>
 
 <p>
   <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-c6ff3d?style=for-the-badge&labelColor=121212" alt="Portfolio"></a>
