@@ -1,90 +1,73 @@
 <p align="center">
-  <a href="https://angelovds.me"><img src="assets/banner.svg" alt="Angelo Ventura De Sousa — étudiant en BTS SIO option SISR" width="100%"></a>
+  <a href="https://angelovds.me"><img src="assets/banner.svg" alt="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-ffb020?style=for-the-badge&labelColor=070b18" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/BTS%20SIO-option%20SISR-5b8cff?style=for-the-badge&labelColor=070b18" alt="BTS SIO option SISR">
-  <img src="https://img.shields.io/badge/École-MyDigitalSchool-3ee6a0?style=for-the-badge&labelColor=070b18" alt="MyDigitalSchool">
+  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio angelovds.me"></a>
+  <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-70235a392"><img src="https://img.shields.io/badge/LinkedIn-Mon%20profil-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Statut-En%20recherche%20d'alternance-ff0066?style=for-the-badge&labelColor=0a0a0a" alt="En recherche d'alternance">
 </p>
 
 ---
 
-### `$ cat about.txt`
+## `01` À propos
 
-Étudiant en **BTS SIO** (Services Informatiques aux Organisations), option **SISR** (Solutions d'Infrastructure, Systèmes et Réseaux) à **MyDigitalSchool**.
+Je m'appelle **Angelo Ventura De Sousa**, j'ai **19 ans**. Diplômé d'un **Bac Pro Systèmes Numériques** au lycée François Arago de Nantes, je suis aujourd'hui en **BTS SIO option SISR** à **MyDigitalSchool** (Saint-Herblain).
 
-Je suis venu à l'informatique par les jeux vidéo et le matériel PC : comprendre ce qui se passe derrière l'écran, faire fonctionner les machines ensemble et les dépanner. En formation, j'aime surtout le concret : installer des systèmes et des serveurs, mettre en place des services et protéger les infrastructures.
+Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En formation, j'aime le concret : installer des systèmes et des serveurs, mettre en place des services comme **GLPI**, déployer un parc en machines virtuelles et suivre l'actualité de la **cybersécurité**.
 
 ```txt
-focus      → systèmes · réseaux · support · cybersécurité
-en cours   → BTS SIO option SISR
-hors cours → jeux vidéo · matériel PC · veille cyber
+> status: en recherche d'alternance
+> zone:   Saint-Étienne-de-Montluc (44) · Permis B
 ```
 
 ---
 
-### `$ ls ~/stack`
-
-> Ma stack, rangée par couche, comme une trame réseau.
-
-**`L7` Services & support**
-<br>
-<img src="https://img.shields.io/badge/GLPI-0f1b3d?style=flat-square" alt="GLPI">
-<img src="https://img.shields.io/badge/ITIL-0f1b3d?style=flat-square" alt="ITIL">
-<img src="https://img.shields.io/badge/Apache-0f1b3d?style=flat-square&logo=apache&logoColor=white" alt="Apache">
-<img src="https://img.shields.io/badge/MariaDB-0f1b3d?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
-<img src="https://img.shields.io/badge/Documentation%20technique-0f1b3d?style=flat-square" alt="Documentation technique">
-
-**`L3` Réseau & sécurité**
-<br>
-<img src="https://img.shields.io/badge/TCP%2FIP%20·%20DHCP%20·%20DNS-0f1b3d?style=flat-square" alt="TCP/IP, DHCP, DNS">
-<img src="https://img.shields.io/badge/Switchs%20·%20routeurs-0f1b3d?style=flat-square" alt="Switchs et routeurs">
-<img src="https://img.shields.io/badge/CERT--FR-0f1b3d?style=flat-square" alt="CERT-FR">
-<img src="https://img.shields.io/badge/Veille%20cyber-0f1b3d?style=flat-square" alt="Veille cyber">
-
-**`L1` Systèmes & virtualisation**
-<br>
-<img src="https://img.shields.io/badge/Windows%20Server%202025-0f1b3d?style=flat-square" alt="Windows Server 2025">
-<img src="https://img.shields.io/badge/Active%20Directory-0f1b3d?style=flat-square" alt="Active Directory">
-<img src="https://img.shields.io/badge/Windows%2011-0f1b3d?style=flat-square" alt="Windows 11">
-<img src="https://img.shields.io/badge/Debian-0f1b3d?style=flat-square&logo=debian&logoColor=white" alt="Debian">
-<img src="https://img.shields.io/badge/Ubuntu-0f1b3d?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-<img src="https://img.shields.io/badge/Linux%20Mint-0f1b3d?style=flat-square&logo=linuxmint&logoColor=white" alt="Linux Mint">
-<img src="https://img.shields.io/badge/Kali%20Linux-0f1b3d?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
-<img src="https://img.shields.io/badge/VirtualBox-0f1b3d?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox">
-
----
-
-### `$ ls ~/realisations`
-
-| Réalisation | Domaine | Outils |
-|---|---|---|
-| **GLPI : installation et gestion des tickets** | Support · ITSM | GLPI, Debian, Apache, MariaDB, ITIL |
-| **Maquette de parc en machines virtuelles** | Systèmes | VirtualBox, Windows 11, Windows Server 2025, Ubuntu, Linux Mint, Kali |
-| **Projet RapidColis : modernisation du SI** | Gestion de projet | Cadrage, planification, schéma d'architecture |
-| **Veille cybersécurité pour une PME** | Cybersécurité | Feedly, Google Alertes, CERT-FR, NVD, grille FACTO |
-| **Audit SEO d'une page web** | Présence en ligne | Mots-clés, PageSpeed Insights, SERP |
-| **Dossier d'inventaire de parc** | Patrimoine | GLPI Agent, OCS Inventory |
-
-> Le détail de chaque réalisation, avec ses fiches techniques et guides utilisateurs, est sur mon **[portfolio](https://angelovds.me)**.
-
----
-
-### `$ tail -f veille.log`
-
-```txt
-sujet   → cybersécurité des PME
-sources → CERT-FR · NVD · Le Monde Informatique · UnderNews · Google Alertes
-méthode → grille FACTO · quoi / donc quoi / on fait quoi
-```
-
----
-
-### `$ ping angelo`
+## `02` Compétences
 
 <p>
-  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-ffb020?style=for-the-badge&labelColor=070b18" alt="Portfolio"></a>
+<img src="https://img.shields.io/badge/Windows%20Server%202025-111?style=flat-square&labelColor=0a0a0a" alt="Windows Server 2025">
+<img src="https://img.shields.io/badge/Active%20Directory-111?style=flat-square" alt="Active Directory">
+<img src="https://img.shields.io/badge/Windows%2011-111?style=flat-square" alt="Windows 11">
+<img src="https://img.shields.io/badge/Debian-111?style=flat-square&logo=debian&logoColor=00ff88" alt="Debian">
+<img src="https://img.shields.io/badge/Ubuntu-111?style=flat-square&logo=ubuntu&logoColor=00ff88" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Linux%20Mint-111?style=flat-square&logo=linuxmint&logoColor=00ff88" alt="Linux Mint">
+<img src="https://img.shields.io/badge/Kali%20Linux-111?style=flat-square&logo=kalilinux&logoColor=00ff88" alt="Kali Linux">
+<img src="https://img.shields.io/badge/VirtualBox-111?style=flat-square&logo=virtualbox&logoColor=00ff88" alt="VirtualBox">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Cisco-111?style=flat-square&logo=cisco&logoColor=00d4ff" alt="Cisco">
+<img src="https://img.shields.io/badge/TCP%2FIP%20·%20DHCP%20·%20DNS-111?style=flat-square" alt="TCP/IP, DHCP, DNS">
+<img src="https://img.shields.io/badge/GLPI-111?style=flat-square" alt="GLPI">
+<img src="https://img.shields.io/badge/ITIL-111?style=flat-square" alt="ITIL">
+<img src="https://img.shields.io/badge/Apache-111?style=flat-square&logo=apache&logoColor=00d4ff" alt="Apache">
+<img src="https://img.shields.io/badge/MariaDB-111?style=flat-square&logo=mariadb&logoColor=00d4ff" alt="MariaDB">
+<img src="https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=00d4ff" alt="Git">
+<img src="https://img.shields.io/badge/CERT--FR%20·%20veille%20cyber-111?style=flat-square" alt="CERT-FR, veille cyber">
 </p>
 
-<sub>`64 octets de angelo : icmp_seq=1 ttl=64 temps=0,42 ms` — réponse garantie.</sub>
+---
+
+## `03` Réalisations
+
+| # | Réalisation | Domaine | Outils |
+|:-:|---|---|---|
+| 01 | **Maquette de parc en machines virtuelles** | Systèmes | VirtualBox, Windows 11, Windows Server 2025, Ubuntu, Linux Mint, Kali |
+| 02 | **Projet RapidColis : modernisation du SI** | Gestion de projet | Cadrage, planification, schéma d'architecture |
+| 03 | **Veille cybersécurité pour une PME** | Cybersécurité | Feedly, Google Alertes, CERT-FR, NVD, grille FACTO |
+| 04 | **GLPI : installation et gestion des tickets** | Support · ITSM | GLPI, Debian, Apache, MariaDB, ITIL |
+| 05 | **Audit SEO d'une page web** | Présence en ligne | Mots-clés, PageSpeed Insights, SERP |
+| 06 | **Dossier d'inventaire de parc** | Patrimoine | GLPI Agent, OCS Inventory |
+
+> Fiches techniques, guides utilisateurs et tableau de l'épreuve E5 : **[angelovds.me](https://angelovds.me)**
+
+---
+
+## `04` Contact
+
+<p>
+  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-00ff88?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-70235a392"><img src="https://img.shields.io/badge/LinkedIn-Angelo%20Ventura%20De%20Sousa-00d4ff?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn"></a>
+</p>
+
+<sub>Je recherche une **alternance** en systèmes et réseaux. Discutons de ton projet !</sub>
