@@ -16,11 +16,6 @@ Je m'appelle **Angelo Ventura De Sousa**, j'ai **19 ans**. Diplômé d'un **Bac 
 
 Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En formation, j'aime le concret : installer des systèmes et des serveurs, mettre en place des services comme **GLPI**, déployer un parc en machines virtuelles et suivre l'actualité de la **cybersécurité**.
 
-```txt
-> status: en recherche d'alternance
-> zone:   Saint-Étienne-de-Montluc (44) · Permis B
-```
-
 ---
 
 ## `02` Compétences
