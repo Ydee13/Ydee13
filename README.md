@@ -33,8 +33,9 @@ En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**
 |---|---|
 | **Prise d'appels** | Réponse aux appels des collaborateurs en décrochant via la CTI Bar sur mon poste de travail, puis prise en charge de leur problème |
 | **Assistance à distance** | Prise en main à distance des postes pour diagnostiquer et résoudre les problèmes, sans se déplacer |
-| **Postes de travail** | Diagnostic et dépannage des PC portables professionnels et des unités centrales |
-| **Périphériques** | Prise en charge des scanners de chèques, des scanners de documents et du bip |
+| **Postes de travail** | Diagnostic et dépannage des PC portables professionnels, des unités centrales, des écrans déportés et des dockings |
+| **Périphériques** | Prise en charge des téléphones pro, souris, claviers, scanners de chèques, scanners de documents et du bip |
+| **Réseau** | Diagnostic des dysfonctionnements réseau, notamment au niveau des câbles RJ45 |
 | **Tickets** | Création d'un ticket pour chaque problème résolu, puis clôture une fois l'intervention terminée |
 | **Escalade** | Transfert au niveau 2 si le problème n'est pas résolu, ou aux mainteneurs EIS pour tout problème matériel (casse, dysfonctionnement…) qui ne peut pas se régler à distance |
 
@@ -42,8 +43,14 @@ En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**
 
 <p>
 <img src="https://img.shields.io/badge/PC%20portables%20pro-111?style=flat-square" alt="PC portables professionnels">
-<img src="https://img.shields.io/badge/Unités%20centrales-111?style=flat-square" alt="Unités centrales">
-<img src="https://img.shields.io/badge/Scanners%20de%20chèques-111?style=flat-square" alt="Scanners de chèques">
+<img src="https://img.shields.io/badge/Unit%C3%A9s%20centrales-111?style=flat-square" alt="Unités centrales">
+<img src="https://img.shields.io/badge/%C3%89crans%20d%C3%A9port%C3%A9s-111?style=flat-square" alt="Écrans déportés">
+<img src="https://img.shields.io/badge/Docking-111?style=flat-square" alt="Docking">
+<img src="https://img.shields.io/badge/T%C3%A9l%C3%A9phones%20pro-111?style=flat-square" alt="Téléphones professionnels">
+<img src="https://img.shields.io/badge/Souris-111?style=flat-square" alt="Souris">
+<img src="https://img.shields.io/badge/Claviers-111?style=flat-square" alt="Claviers">
+<img src="https://img.shields.io/badge/C%C3%A2bles%20RJ45-111?style=flat-square" alt="Câbles RJ45 (réseau)">
+<img src="https://img.shields.io/badge/Scanners%20de%20ch%C3%A8ques-111?style=flat-square" alt="Scanners de chèques">
 <img src="https://img.shields.io/badge/Scanners%20de%20documents-111?style=flat-square" alt="Scanners de documents">
 <img src="https://img.shields.io/badge/Bip-111?style=flat-square" alt="Bip">
 </p>
