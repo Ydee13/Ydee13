@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 118" width="1200" height="118" role="img" aria-label="03 — Compétences">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0071e3"/><stop offset="1" stop-color="#a768ff"/></linearGradient></defs>
-<rect width="1200" height="118" rx="20" fill="#f5f5f7"/>
-<text x="46" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#0071e3">03</text>
-<line x1="46" y1="78" x2="78" y2="78" stroke="url(#g)" stroke-width="2"/>
-<text x="110" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="600" fill="#1d1d1f" letter-spacing="-1.4">Compétences</text>
-<text x="112" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="400" fill="#6e6e73">Systèmes · Réseaux · Support</text>
-<circle cx="1146" cy="59" r="4" fill="#0071e3"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
-</svg>
