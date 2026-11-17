@@ -1,28 +1,28 @@
 <p align="center">
-  <a href="https://angelovds.me"><img src="assets/banner-grimoire-v2.svg" alt="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool" width="100%"></a>
+  <a href="https://angelovds.me"><img src="assets/banner-ciel.svg" alt="Angelo Ventura De Sousa — BTS SIO SISR, MyDigitalSchool" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-b3122e?style=for-the-badge&labelColor=0b0607" alt="Portfolio angelovds.me"></a>
-  <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-421104439"><img src="https://img.shields.io/badge/LinkedIn-Mon%20profil-e8c35a?style=for-the-badge&labelColor=0b0607" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Alternance-CCS%20SAM%20·%20Crédit%20Mutuel-b3122e?style=for-the-badge&labelColor=0b0607" alt="En alternance au CCS SAM, Crédit Mutuel">
+  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-f29bbf?style=for-the-badge&labelColor=3d6fb6" alt="Portfolio angelovds.me"></a>
+  <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-421104439"><img src="https://img.shields.io/badge/LinkedIn-Mon%20profil-9fd0f5?style=for-the-badge&labelColor=3d6fb6" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Alternance-CCS%20SAM%20·%20Crédit%20Mutuel-f29bbf?style=for-the-badge&labelColor=3d6fb6" alt="En alternance au CCS SAM, Crédit Mutuel">
 </p>
 
 
-<p align="center"><img src="assets/page-1-v2.svg" alt="Page 01 : À propos" width="100%"></p>
+<p align="center"><img src="assets/ciel-1.svg" alt="Partie 01 : À propos" width="100%"></p>
 
 Je m'appelle **Angelo Ventura De Sousa**, j'ai **19 ans**. Diplômé d'un **Bac Pro Systèmes Numériques** au lycée François Arago de Nantes, je suis aujourd'hui en **BTS SIO option SISR** à **MyDigitalSchool** (Saint-Herblain).
 
 Je suis venu à l'informatique par les jeux vidéo et le matériel PC. En formation, j'aime le concret : installer des systèmes et des serveurs, mettre en place des services comme **GLPI**, déployer un parc en machines virtuelles et suivre l'actualité de la **cybersécurité**.
 
 
-<p align="center"><img src="assets/page-2-v2.svg" alt="Page 02 : Alternance" width="100%"></p>
+<p align="center"><img src="assets/ciel-2.svg" alt="Partie 02 : Alternance" width="100%"></p>
 
 <p>
-<img src="https://img.shields.io/badge/Crédit%20Mutuel-CCS%20SAM-b3122e?style=for-the-badge&labelColor=0b0607" alt="Crédit Mutuel, CCS SAM">
-<img src="https://img.shields.io/badge/Service-Assistance%20matérielle-b3122e?style=for-the-badge&labelColor=0b0607" alt="Assistance matérielle">
-<img src="https://img.shields.io/badge/Appels-CTI%20Bar-e8c35a?style=for-the-badge&labelColor=0b0607" alt="Prise d'appels via la CTI Bar">
-<img src="https://img.shields.io/badge/Lieu-Nantes-e8c35a?style=for-the-badge&labelColor=0b0607" alt="Nantes">
+<img src="https://img.shields.io/badge/Crédit%20Mutuel-CCS%20SAM-f29bbf?style=for-the-badge&labelColor=3d6fb6" alt="Crédit Mutuel, CCS SAM">
+<img src="https://img.shields.io/badge/Service-Assistance%20matérielle-f29bbf?style=for-the-badge&labelColor=3d6fb6" alt="Assistance matérielle">
+<img src="https://img.shields.io/badge/Appels-CTI%20Bar-9fd0f5?style=for-the-badge&labelColor=3d6fb6" alt="Prise d'appels via la CTI Bar">
+<img src="https://img.shields.io/badge/Lieu-Nantes-9fd0f5?style=for-the-badge&labelColor=3d6fb6" alt="Nantes">
 </p>
 
 En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**, dans le service **assistance matérielle**. Avec l'équipe, on gère **à distance** le matériel informatique des collaborateurs. Les collaborateurs appellent notre ligne. De notre côté, on **décroche via la CTI Bar**, directement sur notre **poste de travail**. On traite ensuite leur demande depuis ce même PC. Quand le problème est résolu, on crée un **ticket** et on le clôture. Sinon, on le fait suivre au **niveau 2**. Et dès que c'est un problème matériel (casse, dysfonctionnement…), bref tout ce qui ne peut pas se régler à distance, on l'envoie aux **mainteneurs (EIS)**, qui interviennent sur place.
@@ -40,45 +40,45 @@ En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**
 **Matériel géré**
 
 <p>
-<img src="https://img.shields.io/badge/PC%20portables%20pro-1a0e0a?style=flat-square" alt="PC portables professionnels">
-<img src="https://img.shields.io/badge/Unit%C3%A9s%20centrales-1a0e0a?style=flat-square" alt="Unités centrales">
-<img src="https://img.shields.io/badge/%C3%89crans%20d%C3%A9port%C3%A9s-1a0e0a?style=flat-square" alt="Écrans déportés">
-<img src="https://img.shields.io/badge/Docking-1a0e0a?style=flat-square" alt="Docking">
-<img src="https://img.shields.io/badge/T%C3%A9l%C3%A9phones%20pro-1a0e0a?style=flat-square" alt="Téléphones professionnels">
-<img src="https://img.shields.io/badge/Souris-1a0e0a?style=flat-square" alt="Souris">
-<img src="https://img.shields.io/badge/Claviers-1a0e0a?style=flat-square" alt="Claviers">
-<img src="https://img.shields.io/badge/C%C3%A2bles%20RJ45-1a0e0a?style=flat-square" alt="Câbles RJ45 (réseau)">
-<img src="https://img.shields.io/badge/Scanners%20de%20ch%C3%A8ques-1a0e0a?style=flat-square" alt="Scanners de chèques">
-<img src="https://img.shields.io/badge/Scanners%20de%20documents-1a0e0a?style=flat-square" alt="Scanners de documents">
-<img src="https://img.shields.io/badge/Bip-1a0e0a?style=flat-square" alt="Bip">
+<img src="https://img.shields.io/badge/PC%20portables%20pro-3d6fb6?style=flat-square" alt="PC portables professionnels">
+<img src="https://img.shields.io/badge/Unit%C3%A9s%20centrales-3d6fb6?style=flat-square" alt="Unités centrales">
+<img src="https://img.shields.io/badge/%C3%89crans%20d%C3%A9port%C3%A9s-3d6fb6?style=flat-square" alt="Écrans déportés">
+<img src="https://img.shields.io/badge/Docking-3d6fb6?style=flat-square" alt="Docking">
+<img src="https://img.shields.io/badge/T%C3%A9l%C3%A9phones%20pro-3d6fb6?style=flat-square" alt="Téléphones professionnels">
+<img src="https://img.shields.io/badge/Souris-3d6fb6?style=flat-square" alt="Souris">
+<img src="https://img.shields.io/badge/Claviers-3d6fb6?style=flat-square" alt="Claviers">
+<img src="https://img.shields.io/badge/C%C3%A2bles%20RJ45-3d6fb6?style=flat-square" alt="Câbles RJ45 (réseau)">
+<img src="https://img.shields.io/badge/Scanners%20de%20ch%C3%A8ques-3d6fb6?style=flat-square" alt="Scanners de chèques">
+<img src="https://img.shields.io/badge/Scanners%20de%20documents-3d6fb6?style=flat-square" alt="Scanners de documents">
+<img src="https://img.shields.io/badge/Bip-3d6fb6?style=flat-square" alt="Bip">
 </p>
 
 
-<p align="center"><img src="assets/page-3-v2.svg" alt="Page 03 : Compétences" width="100%"></p>
+<p align="center"><img src="assets/ciel-3.svg" alt="Partie 03 : Compétences" width="100%"></p>
 
 <p>
-<img src="https://img.shields.io/badge/Windows%20Server%202025-1a0e0a?style=flat-square&labelColor=0a0a0a" alt="Windows Server 2025">
-<img src="https://img.shields.io/badge/Active%20Directory-1a0e0a?style=flat-square" alt="Active Directory">
-<img src="https://img.shields.io/badge/Windows%2011-1a0e0a?style=flat-square" alt="Windows 11">
-<img src="https://img.shields.io/badge/Debian-1a0e0a?style=flat-square&logo=debian&logoColor=e8c35a" alt="Debian">
-<img src="https://img.shields.io/badge/Ubuntu-1a0e0a?style=flat-square&logo=ubuntu&logoColor=e8c35a" alt="Ubuntu">
-<img src="https://img.shields.io/badge/Linux%20Mint-1a0e0a?style=flat-square&logo=linuxmint&logoColor=e8c35a" alt="Linux Mint">
-<img src="https://img.shields.io/badge/Kali%20Linux-1a0e0a?style=flat-square&logo=kalilinux&logoColor=e8c35a" alt="Kali Linux">
-<img src="https://img.shields.io/badge/VirtualBox-1a0e0a?style=flat-square&logo=virtualbox&logoColor=e8c35a" alt="VirtualBox">
+<img src="https://img.shields.io/badge/Windows%20Server%202025-3d6fb6?style=flat-square&labelColor=0a0a0a" alt="Windows Server 2025">
+<img src="https://img.shields.io/badge/Active%20Directory-3d6fb6?style=flat-square" alt="Active Directory">
+<img src="https://img.shields.io/badge/Windows%2011-3d6fb6?style=flat-square" alt="Windows 11">
+<img src="https://img.shields.io/badge/Debian-3d6fb6?style=flat-square&logo=debian&logoColor=9fd0f5" alt="Debian">
+<img src="https://img.shields.io/badge/Ubuntu-3d6fb6?style=flat-square&logo=ubuntu&logoColor=9fd0f5" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Linux%20Mint-3d6fb6?style=flat-square&logo=linuxmint&logoColor=9fd0f5" alt="Linux Mint">
+<img src="https://img.shields.io/badge/Kali%20Linux-3d6fb6?style=flat-square&logo=kalilinux&logoColor=9fd0f5" alt="Kali Linux">
+<img src="https://img.shields.io/badge/VirtualBox-3d6fb6?style=flat-square&logo=virtualbox&logoColor=9fd0f5" alt="VirtualBox">
 </p>
 <p>
-<img src="https://img.shields.io/badge/Cisco-1a0e0a?style=flat-square&logo=cisco&logoColor=e8c35a" alt="Cisco">
-<img src="https://img.shields.io/badge/TCP%2FIP%20·%20DHCP%20·%20DNS-1a0e0a?style=flat-square" alt="TCP/IP, DHCP, DNS">
-<img src="https://img.shields.io/badge/GLPI-1a0e0a?style=flat-square" alt="GLPI">
-<img src="https://img.shields.io/badge/ITIL-1a0e0a?style=flat-square" alt="ITIL">
-<img src="https://img.shields.io/badge/Apache-1a0e0a?style=flat-square&logo=apache&logoColor=e8c35a" alt="Apache">
-<img src="https://img.shields.io/badge/MariaDB-1a0e0a?style=flat-square&logo=mariadb&logoColor=e8c35a" alt="MariaDB">
-<img src="https://img.shields.io/badge/Git-1a0e0a?style=flat-square&logo=git&logoColor=e8c35a" alt="Git">
-<img src="https://img.shields.io/badge/CERT--FR%20·%20veille%20cyber-1a0e0a?style=flat-square" alt="CERT-FR, veille cyber">
+<img src="https://img.shields.io/badge/Cisco-3d6fb6?style=flat-square&logo=cisco&logoColor=9fd0f5" alt="Cisco">
+<img src="https://img.shields.io/badge/TCP%2FIP%20·%20DHCP%20·%20DNS-3d6fb6?style=flat-square" alt="TCP/IP, DHCP, DNS">
+<img src="https://img.shields.io/badge/GLPI-3d6fb6?style=flat-square" alt="GLPI">
+<img src="https://img.shields.io/badge/ITIL-3d6fb6?style=flat-square" alt="ITIL">
+<img src="https://img.shields.io/badge/Apache-3d6fb6?style=flat-square&logo=apache&logoColor=9fd0f5" alt="Apache">
+<img src="https://img.shields.io/badge/MariaDB-3d6fb6?style=flat-square&logo=mariadb&logoColor=9fd0f5" alt="MariaDB">
+<img src="https://img.shields.io/badge/Git-3d6fb6?style=flat-square&logo=git&logoColor=9fd0f5" alt="Git">
+<img src="https://img.shields.io/badge/CERT--FR%20·%20veille%20cyber-3d6fb6?style=flat-square" alt="CERT-FR, veille cyber">
 </p>
 
 
-<p align="center"><img src="assets/page-4-v2.svg" alt="Page 04 : Réalisations" width="100%"></p>
+<p align="center"><img src="assets/ciel-4.svg" alt="Partie 04 : Réalisations" width="100%"></p>
 
 | # | Réalisation | Domaine | Outils |
 |:-:|---|---|---|
@@ -92,11 +92,11 @@ En parallèle de mon BTS, je suis en **alternance au CCS SAM du Crédit Mutuel**
 > Fiches techniques, guides utilisateurs et tableau de l'épreuve E5 : **[angelovds.me](https://angelovds.me)**
 
 
-<p align="center"><img src="assets/page-5-v2.svg" alt="Page 05 : Contact" width="100%"></p>
+<p align="center"><img src="assets/ciel-5.svg" alt="Partie 05 : Contact" width="100%"></p>
 
 <p>
-  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-b3122e?style=for-the-badge&labelColor=0b0607" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-421104439"><img src="https://img.shields.io/badge/LinkedIn-Angelo%20Ventura%20De%20Sousa-e8c35a?style=for-the-badge&labelColor=0b0607" alt="LinkedIn"></a>
+  <a href="https://angelovds.me"><img src="https://img.shields.io/badge/Portfolio-angelovds.me-f29bbf?style=for-the-badge&labelColor=3d6fb6" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/angelo-ventura-de-sousa-421104439"><img src="https://img.shields.io/badge/LinkedIn-Angelo%20Ventura%20De%20Sousa-9fd0f5?style=for-the-badge&labelColor=3d6fb6" alt="LinkedIn"></a>
 </p>
 
-<p align="center"><img src="assets/fin-grimoire-v2.svg" alt="À suivre…" width="100%"></p>
+<p align="center"><img src="assets/fin-ciel.svg" alt="À suivre…" width="70%"></p>
